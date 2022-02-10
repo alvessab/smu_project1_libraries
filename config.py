@@ -2,4 +2,4 @@
 
 api_key = "AIzaSyC-75WLU1VIhsFnFn_uI-qAi_Di60UwaGE"
 
-gkey = "AIzaSyD9aYGnkPAOipfC8y8LdATq11UC5f0ZATo"
+gkey = "AIzaSyDqxfcUf1DhztkBPJFV-0E9i2ytNSy4rL4"
